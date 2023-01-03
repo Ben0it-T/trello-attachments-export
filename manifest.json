@@ -1,0 +1,21 @@
+{
+    "name": "Trello attachments export",
+    "version": "0.1",
+    "manifest_version" : 3,
+    "description": "Trello attachments export",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://trello.com/*"
+            ],
+            "css": [
+                "lib/jquery.growl.css"
+            ],
+            "js": [
+                "lib/jquery-3.6.3.min.js",
+                "lib/jquery.growl.js",
+                "trello-attachments-export.js"
+             ]
+        }
+    ]
+}
