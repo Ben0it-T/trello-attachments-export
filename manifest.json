@@ -2,7 +2,7 @@
     "name": "Trello attachments export",
     "version": "0.1",
     "manifest_version" : 3,
-    "description": "Trello attachments export",
+    "description": "Chrome extension for Trello that allows to download all attachments on a Board",
     "content_scripts": [
         {
             "matches": [
