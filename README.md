@@ -10,6 +10,5 @@ Initially to test if it was possible (easily) to download attachments from a boa
 
 ## Usage
 From Trello, click on 'Print and export'
-=> Click on 'Export as JSON including Attachments', to export as JSON
-=> Click on 'Download All Attachments', to download attachments
-
+- Click on 'Export as JSON including Attachments', to export as JSON
+- Click on 'Download All Attachments', to download attachments
